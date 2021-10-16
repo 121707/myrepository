@@ -1,6 +1,6 @@
 config:
     info: "server:
-  port: 330825
+  port: 3300
 spring:
   application:
     name: config-center
